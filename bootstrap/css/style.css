@@ -99,3 +99,38 @@ color: #5D4037;
 
 
 ///////////////////////////////////////Wanna css end////////////////////////////////////////////////////
+
+
+/*temple css*/
+
+	.tem_hovereffect:hover img {
+ 		 transform: scale(0.95);
+		}
+
+	.tem_up {
+		width: 40px;
+		height: 35px;
+		border-radius: 10px;
+	}
+	.tem_up:hover {
+		background-color: #000;
+		color: #eee;
+		border-radius: 10px;
+	}
+
+	.tem_card{
+		width: 100%;
+		height: 100%;
+	}
+
+	.tem_font{
+	font-family:Wanna;
+	font-size: 25px;
+	}
+
+	.tem_font2{
+		font-family:Flower;
+	}
+
+
+	/*Temple end*/
