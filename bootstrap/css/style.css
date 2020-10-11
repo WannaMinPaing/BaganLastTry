@@ -1,0 +1,101 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+///////////////////////////////////////Wanna css start////////////////////////////////////////////////////
+.clear{
+	clear: both;
+}
+
+.Index_logo_image{
+	width:50px;
+	height: 70px;
+}
+
+.Index_logo_style{
+	margin-left:0px;
+}
+
+.Index_info{
+	background-color:#B3CDD1;
+}
+
+.Index_footer{
+	background-color:  #BDD4E7;
+}
+
+.Index_fire_Class{
+	width: 400px;
+	height: 300px;
+}
+
+.Index_middle_img{
+	position:absolute;
+  top: 1350px;
+  left: 80px;
+  font-size: 25px;
+}
+
+.Index_fes_hr{
+	width: 350px;
+	 border-width: 1px;
+	 border-color:black;
+
+}
+.Index_Ess_Img{
+	width: 200px;
+	height: 200px;
+}
+
+.Index_border{
+	border:0.5px solid;
+	border-top: none;
+	border-bottom: none;
+	border-right: none;
+
+}
+
+.Nav_Color{
+
+	background-color: #BDD4E7;
+}
+
+.title_font{
+	font-family:Wanna;
+	font-size: 50px;
+}
+
+.title_font2{
+	font-family:Wanna2;
+	
+}
+
+
+.active,nav#Nav_Color div ul li a:hover
+{
+color: #5D4037;	
+}
+
+#title{
+	text-align: center; 
+	margin-top: 30px;
+	font-family: FLower;
+  }
+
+
+
+.About_text{
+	font-size: 20px;
+	line-height: 30px;
+	color: white;
+
+}
+
+.About_bgc{
+	background-color: #F37335;
+}
+
+
+///////////////////////////////////////Wanna css end////////////////////////////////////////////////////
